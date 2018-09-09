@@ -4,9 +4,12 @@
 Create a simple calculator with add(x, y) function as a gRPC server and provide a test client to invoke the calculator service.
 
 ## Included files:
--adder.proto
--adder_client.py
--adder_server.py
+- adder.proto
+- adder_client.py
+- adder_server.py
+
+- adder_pb2.py
+- adder_pb2_grpc.py
 
 ## How to Run:
 
